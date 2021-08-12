@@ -1,20 +1,23 @@
 {
-  "name": "documents_structs",
-  "version": "0.0.1",
-  "description": "",
+  "name": "documents_structs_core",
+  "version": "1.0.0",
+  "description": "core apis and helpers to create document structures and entities recognition",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theeye-io/documents_structs.git"
+    "url": "git+https://github.com/theeye-io/documents_structs_core.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/theeye-io/documents_structs/issues"
+    "url": "https://github.com/theeye-io/documents_structs_core/issues"
   },
-  "homepage": "https://github.com/theeye-io/documents_structs#readme"
+  "homepage": "https://github.com/theeye-io/documents_structs_core#readme"
 }
